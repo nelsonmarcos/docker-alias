@@ -15,3 +15,6 @@ git clone https://github.com/nelsonmarcos/docker-aliases.git
 cd docker-aliases
 ./install.sh
 ```
+## Commands
+
+*docker-rm-all*: remove all container. Even if they are running. 
